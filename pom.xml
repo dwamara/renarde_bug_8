@@ -63,13 +63,7 @@
             <artifactId>quarkus-renarde</artifactId>
             <version>1.0.0</version>
         </dependency>
-        <dependency>
-            <groupId>io.quarkiverse.renarde</groupId>
-            <artifactId>quarkus-renarde-oidc</artifactId>
-            <version>1.0.0</version>
-        </dependency>
-
-    </dependencies>
+     </dependencies>
     <build>
         <plugins>
             <plugin>
